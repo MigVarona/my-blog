@@ -28,6 +28,8 @@ body {
   font-variation-settings: "wght" 450;
   font-variant: common-ligatures contextual;
   letter-spacing: -0.02em;
+  background-color: #FAE053;
+  
 }
 b,
 strong,
@@ -69,6 +71,11 @@ img.next-image {
 }
 
 .glitch {
-  width: 500px;
+  width: 800px;
   height: 500px;
+}
+
+.pandora {
+  width: 300px;
+  height: 300px;
 }
